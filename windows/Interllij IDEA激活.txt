@@ -1,3 +1,5 @@
 Java idea 激活方式：
 1. idea打开一个项目， 吧jetbrains-agent-2020.jar 拖到编辑器上，提示重启ide就可以了
 2. 点击 help -> registry 查看激活状态。
+
+版本： java. python 2020.1.3可用。CLion2020.1.3不能用，Clion2019.3可以用。
